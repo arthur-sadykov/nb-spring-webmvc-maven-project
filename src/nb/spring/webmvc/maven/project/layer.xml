@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Templates">
+        <folder name="Project">
+            <folder name="Maven2">
+                <file name="nb-spring-webmvc-maven-project-SpringMVCProjectWizardIterator">
+                    <attr boolvalue="true" name="template"/>
+                    <attr bundlevalue="nb.spring.webmvc.maven.project.Bundle#SpringMVCProject_displayName" name="displayName"/>
+                    <attr name="iconBase" stringvalue="nb/spring/webmvc/maven/project/spring-framework.png"/>
+                    <attr name="instantiatingWizardURL" urlvalue="nbresloc:/nb/spring/webmvc/maven/project/SpringMVCProjectDescription.html"/>
+                    <attr name="instantiatingIterator" newvalue="nb.spring.webmvc.maven.project.SpringMVCProjectWizardIterator"/>
+                    <attr boolvalue="true" name="requireProject"/>
+                </file>
+                <file name="DispatcherServletInitializer.java" url="nbresloc:/nb/spring/webmvc/maven/project/DispatcherServletInitializer.ftl">
+                    <attr name="instantiatingIterator" newvalue="nb.spring.webmvc.maven.project.SpringMVCProjectWizardIterator"/>
+                    <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                </file>
+                <file name="HomeController.java" url="nbresloc:/nb/spring/webmvc/maven/project/HomeController.ftl">
+                    <attr name="instantiatingIterator" newvalue="nb.spring.webmvc.maven.project.SpringMVCProjectWizardIterator"/>
+                    <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                </file>
+                <file name="WebApplicationContextConfig.java" url="nbresloc:/nb/spring/webmvc/maven/project/WebApplicationContextConfig.ftl">
+                    <attr name="instantiatingIterator" newvalue="nb.spring.webmvc.maven.project.SpringMVCProjectWizardIterator"/>
+                    <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                </file>
+                <file name="index.jsp" url="nbresloc:/nb/spring/webmvc/maven/project/index.ftl">
+                    <attr name="instantiatingIterator" newvalue="nb.spring.webmvc.maven.project.SpringMVCProjectWizardIterator"/>
+                    <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                </file>
+                <file name="context.xml" url="nbresloc:/nb/spring/webmvc/maven/project/context.ftl">
+                    <attr name="instantiatingIterator" newvalue="nb.spring.webmvc.maven.project.SpringMVCProjectWizardIterator"/>
+                    <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                </file>
+                <file name="nb-configuration.xml" url="nbresloc:/nb/spring/webmvc/maven/project/nb-configuration.ftl">
+                    <attr name="instantiatingIterator" newvalue="nb.spring.webmvc.maven.project.SpringMVCProjectWizardIterator"/>
+                    <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                </file>
+                <file name="pom.xml" url="nbresloc:/nb/spring/webmvc/maven/project/pom.ftl">
+                    <attr name="instantiatingIterator" newvalue="nb.spring.webmvc.maven.project.SpringMVCProjectWizardIterator"/>
+                    <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

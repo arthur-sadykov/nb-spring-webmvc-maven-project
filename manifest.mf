@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: nb.spring.webmvc.maven.project
+OpenIDE-Module-Layer: nb/spring/webmvc/maven/project/layer.xml
+OpenIDE-Module-Localizing-Bundle: nb/spring/webmvc/maven/project/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
